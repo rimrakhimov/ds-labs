@@ -199,6 +199,9 @@ rs.conf()
 }
 ```
 
+### App
+![](https://raw.githubusercontent.com/rimrakhimov/ds-labs/master/lab-9/screenshots/primari-node-on.png)
+
 ## After turning primry node off
 ### rs.status()
 ```
@@ -418,3 +421,6 @@ rs.conf()
 	}
 }
 ```
+
+### App
+![](https://raw.githubusercontent.com/rimrakhimov/ds-labs/master/lab-9/screenshots/primary-node-off.png)
